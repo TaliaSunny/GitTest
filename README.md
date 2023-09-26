@@ -4,4 +4,6 @@ git test용
 
 ->상품 -> 리뷰 -> 찜목록 -> 이벤트 -> 쿠폰 ->  장바구니 -> 주문 
 
-system.out.println("잘 해 봅시다");
+system.out.println("잘 해 봅시다"); 
+
+system.out.println("파이팅 입니다!! 아자!!"); 
